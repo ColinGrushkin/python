@@ -1,2 +1,3 @@
-# python
-Path to learning Python
+# Path to learning Python
+
+Getting back into it. May 2020 - about two months into mandatory WFH...
